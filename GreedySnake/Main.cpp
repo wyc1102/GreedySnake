@@ -6,7 +6,6 @@ using std::uniform_int_distribution;
 using std::mt19937;
 using std::random_device;
 using std::vector;
-class Snake;
 class Snake
 {
 private:
